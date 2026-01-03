@@ -12,9 +12,6 @@ Senior Mobile App Developer | Flutter & Android | Kotlin • Java • Dart<br><b
 ![](https://nirzak-streak-stats.vercel.app/?user=javid027&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=javid027&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=javid027&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=javid027&icon=0&color=0)](https://visitcount.itsvg.in)
 
